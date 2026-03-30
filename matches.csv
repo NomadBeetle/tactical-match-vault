@@ -1,0 +1,6 @@
+MatchID,Map,Kills,Deaths,Assists,IsWin
+M001,Ascent,18,12,5,true
+M002,Bind,22,15,8,true
+M003,Breeze,9,18,2,false
+M004,Icebox,25,10,4,true
+M005,Split,14,14,7,false
